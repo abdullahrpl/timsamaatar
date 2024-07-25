@@ -36,7 +36,7 @@ nav ul li a{
 nav ul li a:hover{
     color: white;
     padding: 0.5rem;
-    background: darkblue;
+    background: darkorange;
     transition: 0.3s;
     border-radius: 10%;
 }
@@ -56,31 +56,10 @@ nav ul li a:hover{
 }
 
 span{
-    color: darkblue;
+    color: darkorange;
 }
 
 .detel p{
     color: #555;
     line-height: 22px;
-}
-
-
-.btn{
-    background: darkblue;
-    padding: 15px 20px;
-    text-decoration: none;
-    letter-spacing: 0.2;
-    font-weight: bold;
-    color: #fff;
-    display: inline-block;
-    margin: 35px 0;
-    border-radius: 5px;
-    transition: 0.5s;
-    margin-left: 130px;
-}
-
-.btn:hover{
-    letter-spacing: 0.2em;
-    background: rgb(66, 144, 255);
-    box-shadow: 0 0 35px rgb(66, 144, 255);
 }
